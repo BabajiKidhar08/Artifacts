@@ -1,49 +1,45 @@
-📰 News Website - MERN Stack
+# 📰 News Website - MERN Stack
 
-A full-stack News Website built with the MERN stack (MongoDB, Express.js, React, Node.js).
+A full-stack News Website built with the MERN stack (MongoDB, Express.js, React, Node.js).  
 The platform allows users to browse the latest news articles, explore categories, and experience a modern responsive UI with Dark/Light mode support.
 
-🚀 Features
+---
 
-📰 News Feed – Displays latest articles in real-time.
+## 🚀 Features
 
-🔍 Category Filtering – Browse news by categories.
+- 📰 **News Feed** – Displays latest articles in real-time  
+- 🔍 **Category Filtering** – Browse news by categories  
+- 🌙 **Dark/Light Mode** – User-friendly theme toggle  
+- 📱 **Responsive UI** – Works across desktop, tablet, and mobile  
+- ⚡ **Fast Frontend** – Powered by React + Vite  
+- 🗄️ **Backend API** – Built with Express.js and connected to MongoDB Atlas  
+- 🔐 **Secure Auth Ready** – JWT authentication support for user sessions (optional)  
 
-🌙 Dark/Light Mode – User-friendly theme toggle.
+---
 
-📱 Responsive UI – Works across desktop, tablet, and mobile.
+## 🛠️ Tech Stack
 
-⚡ Fast Frontend – Powered by React + Vite.
+### Frontend
+- React (with Vite)  
+- Tailwind CSS (if used)  
+- Axios (API calls)  
 
-🗄️ Backend API – Built with Express.js and connected to MongoDB Atlas.
+### Backend
+- Node.js  
+- Express.js  
+- MongoDB + Mongoose  
+- dotenv (for environment configs)  
+- JWT (Authentication, optional)  
 
-🔐 Secure Auth Ready – JWT authentication support for user sessions (optional).
+---
 
-🛠️ Tech Stack
-Frontend
+## ⚙️ Setup & Installation
 
-React (with Vite)
-
-Tailwind CSS (if used)
-
-Axios (API calls)
-
-Backend
-
-Node.js
-
-Express.js
-
-MongoDB + Mongoose
-
-dotenv (for environment configs)
-
-JWT (Authentication, optional)
-
-⚙️ Setup & Installation
 1️⃣ Clone the repository
+```bash
 git clone <your-repo-url>
 cd Artifacts
+
 
 2️⃣ Setup Backend
 cd server
