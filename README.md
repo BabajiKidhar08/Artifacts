@@ -1,5 +1,5 @@
 # 📰 News Website - MERN Stack
-
+Stay updated, stay informed – your personalized news hub.
 A full-stack News Website built with the MERN stack (MongoDB, Express.js, React, Node.js).  
 The platform allows users to browse the latest news articles, explore categories, and experience a modern responsive UI with Dark/Light mode support.
 
